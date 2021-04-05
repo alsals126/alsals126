@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jeongmin%20Oh&fontSize=90)
 
+![alsals126's github stats](https://github-readme-stats.vercel.app/api?username=alsals126&show_icons=true)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falsals126&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **alsals126/alsals126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
