@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jeongmin%20Oh&fontSize=90)
 
 ![alsals126's github stats](https://github-readme-stats.vercel.app/api?username=alsals126&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsals126&layout=compact&langs_count=81)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsals126&layout=compact&langs_count=81)-->
 <!--
 **alsals126/alsals126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
